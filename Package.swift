@@ -10,6 +10,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "FastDDS",
                       url: "https://github.com/huyaoyu/FastDDS/releases/download/v2.6.6/fastrtps-v2.6.6.xcframework.zip",
-                      checksum: "e91a3462982202ea62b40d4afffb126f350b150e712fa230c5562112becdceb7")
+                      checksum: "74c2ab7c2165cea2a4ce53e15d53217548cf9479c3ab0651ae41dfd019cd3424")
     ]
 )
